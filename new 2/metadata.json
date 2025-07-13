@@ -1,6 +1,0 @@
-{
-  "name": "GI Lesion Analysis Assistant",
-  "description": "An AI-powered app to identify, characterize, and suggest management for esophageal, gastric, duodenal, and colonic lesions using endoscopic classifications.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
