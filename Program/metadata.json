@@ -1,0 +1,6 @@
+{
+  "name": "ENDOSCOPY SCHEDULE",
+  "description": "A web application to display an ERCP schedule. The table dynamically shows rows for each day of a selected month and year (defaulting to 2025), allowing input for patient details and procedure information for each day.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
