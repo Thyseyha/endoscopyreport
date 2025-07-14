@@ -1,8 +1,0 @@
-{
-  "name": "Endoscopy Report Online",
-  "description": "A mobile-first application for generating and managing gastroscopy and colonoscopy reports using photos, structured protocols, and AI-powered diagnostic suggestions. It allows for local data storage, report editing, and PDF exporting.",
-  "requestFramePermissions": [
-    "camera"
-  ],
-  "prompt": ""
-}
